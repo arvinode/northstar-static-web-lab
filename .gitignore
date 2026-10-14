@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.log
+assets/media/*.bin
+assets/media/*.mp4
+assets/media/*.mov
+assets/media/*.zip
